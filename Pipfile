@@ -1,0 +1,49 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# intro-rag
+#langchain = "*"
+#langchain-openai = "*"
+#langchain-pinecone = "*"
+#python-dotenv = "*"
+#langchainhub = "*"
+#black = "*"
+# vectorstore-in-memory
+#pypdf = "*"
+#tiktoken = "*"
+#faiss-cpu = "*"
+# document-helper
+#langchain = "*"
+#beautifulsoup4 = "*"
+#black = "*"
+#tiktoken = "*"
+#openai = "*"
+#pinecone-client = "*"
+#unstructured = "*"
+#nltk = "*"
+#python-magic-bin = "*"
+#fastapi = "*"
+#jinja2 = "*"
+#uvicorn = "*"
+#streamlit = "*"
+#streamlit-chat = "*"
+#tqdm = "*"
+#pexpect = "*"
+#code-interpreter
+langchain = "*"
+langchain_experimental = "*"
+langchain-openai = "*"
+qrcode = "*"
+black = "*"
+python-dotenv = "*"
+langchainhub = "*"
+pandas = "*"
+tabulate = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
