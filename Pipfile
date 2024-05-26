@@ -42,6 +42,8 @@ python-dotenv = "*"
 langchainhub = "*"
 pandas = "*"
 tabulate = "*"
+konlpy = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
